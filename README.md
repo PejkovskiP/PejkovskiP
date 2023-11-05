@@ -16,7 +16,6 @@ I'm enthusiastic about web development, and I have a keen interest in:
 I'm continuously expanding my skills and knowledge. Currently, I'm learning:
 
 - React and its ecosystem
-- Responsive web design
 - JavaScript frameworks and libraries
 - Best practices for web accessibility
 
